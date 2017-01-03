@@ -1,2 +1,4 @@
-# a1-starter-repo
-Assignment 1: Web scraping
+# Assignment 1: Web scraping
+
+Use this repository to complete assignment 1. Please submit the repository URL to Canvas for grading.
+
