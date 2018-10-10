@@ -1,5 +1,5 @@
-,album,artist,lyrics,most common non-stop word,number of words,song title,url
-0,Pal Joey [1980 London Cast Recording] [1998],Adele,"My life had no color, before I met you
+artist,album,song title,url,lyrics,number of words,most common non-stop word
+Adele,Pal Joey [1980 London Cast Recording] [1998],That Terrific Rainbow,https://www.lyrics.com/lyric/2172832/Jane+Gurnett/That+Terrific+Rainbow,"My life had no color, before I met you
 What could have been duller, the times I went through
 You weakened my resistance, and colored my existence
 I'm happy, and unhappy too
@@ -13,8 +13,8 @@ I'm a red hot mama, but you white and cold
 Don't you know your Mama has a heart of gold
 Though we're in those gray clouds, someday you see
 That terrific rainbow over you and me.
-","(""I'm"", 5)",108,That Terrific Rainbow,https://www.lyrics.com/lyric/2172832/Jane+Gurnett/That+Terrific+Rainbow
-1,19 [2008],Adele,"Hold my hand while you cut me down
+",108,"(""I'm"", 5)"
+Adele,19 [2008],Tired,https://www.lyrics.com/lyric/13856253/Adele/Tired,"Hold my hand while you cut me down
 It had only just begun but now it's over now
 And you're in the heat of moments with your heart playing up cold
 I'm between the middle watching hastiness unfold
@@ -67,8 +67,8 @@ When I don't get nothing back
 And for what, and for what, and for what
 When I don't get nothing back
 Oy, I'm tired
-","('get', 11)",302,Tired,https://www.lyrics.com/lyric/13856253/Adele/Tired
-2,19 [Bonus CD] [2008],Adele,"When we used
+",302,"('get', 11)"
+Adele,19 [Bonus CD] [2008],"That's It, I Quit, I'm Moving On [Live][*]",https://www.lyrics.com/lyric/14257144/Adele/That%27s+It%2C+I+Quit%2C+I%27m+Moving+On+%5BLive%5D%5B%2A%5D,"When we used
 To say goodnight
 I'd always kiss
 And hold you tight
@@ -137,8 +137,8 @@ I quit I'm movin' on
 Ye that's it baby
 I quit now
 I'm movin' on
-","('quit', 5)",208,"That's It, I Quit, I'm Moving On [Live][*]",https://www.lyrics.com/lyric/14257144/Adele/That%27s+It%2C+I+Quit%2C+I%27m+Moving+On+%5BLive%5D%5B%2A%5D
-3,19 [Deluxe Edition] [2008],Adele,"Who wants to be right as rain
+",208,"('quit', 5)"
+Adele,19 [Deluxe Edition] [2008],"Right as Rain [Live at Roxy, Los Angeles] [North American Tour Film] [L",https://www.lyrics.com/lyric/19021289/Adele/Right+as+Rain+%5BLive+at+Roxy%2C+Los+Angeles%5D+%5BNorth+American+Tour+Film%5D+%5BL,"Who wants to be right as rain
 It's better when something is wrong
 You get excitement in your bones
 And everything you do's a game
@@ -186,8 +186,8 @@ So who want to be right as rain
 It's harder when you're on top
 
 [Chorus]
-","('right', 5)",252,"Right as Rain [Live at Roxy, Los Angeles] [North American Tour Film] [L",https://www.lyrics.com/lyric/19021289/Adele/Right+as+Rain+%5BLive+at+Roxy%2C+Los+Angeles%5D+%5BNorth+American+Tour+Film%5D+%5BL
-4,19 [Japan Bonus Tracks] [2008],Adele,"When we used
+",252,"('right', 5)"
+Adele,19 [Japan Bonus Tracks] [2008],"That's It, I Quit, I'm Moving On [*]",https://www.lyrics.com/lyric/13951449/Adele/That%27s+It%2C+I+Quit%2C+I%27m+Moving+On+%5B%2A%5D,"When we used
 To say goodnight
 I'd always kiss
 And hold you tight
@@ -266,8 +266,8 @@ I quit I'm movin' on
 Ye that's it baby
 I quit now
 I'm movin' on
-","('Oh', 6)",241,"That's It, I Quit, I'm Moving On [*]",https://www.lyrics.com/lyric/13951449/Adele/That%27s+It%2C+I+Quit%2C+I%27m+Moving+On+%5B%2A%5D
-5,Chasing Pavements [2 Tracks] [2008],Adele,"When we used
+",241,"('Oh', 6)"
+Adele,Chasing Pavements [2 Tracks] [2008],"That's It, I Quit, I'm Moving On",https://www.lyrics.com/lyric/13636787/Adele/That%27s+It%2C+I+Quit%2C+I%27m+Moving+On,"When we used
 To say goodnight
 I'd always kiss
 And hold you tight
@@ -345,8 +345,8 @@ I'm movin' on
 So that's it
 Baby, I quit
 Oh, I'm movin' on
-","('made', 6)",243,"That's It, I Quit, I'm Moving On",https://www.lyrics.com/lyric/13636787/Adele/That%27s+It%2C+I+Quit%2C+I%27m+Moving+On
-6,Ibiza Annual 2008 [2008],Adele,"I've been walking in the same way as I did
+",243,"('made', 6)"
+Adele,Ibiza Annual 2008 [2008],Hometown Glory [Axwell Club Mix],https://www.lyrics.com/lyric/14848782/Adele/Hometown+Glory+%5BAxwell+Club+Mix%5D,"I've been walking in the same way as I did
 Missing out the cracks in the pavement
 And turning my heel and strutting my feet
 ""Is there anything I can do for you dear?
@@ -387,8 +387,8 @@ Are the wonders of my world
 Of my world, yeah
 Of my world
 Of my world, yeah
-","('world', 10)",215,Hometown Glory [Axwell Club Mix],https://www.lyrics.com/lyric/14848782/Adele/Hometown+Glory+%5BAxwell+Club+Mix%5D
-7,Make You Feel My Love [2008],Adele,"Painting pictures with my mind
+",215,"('world', 10)"
+Adele,Make You Feel My Love [2008],Painting Pictures,https://www.lyrics.com/lyric/15183454/Adele/Painting+Pictures,"Painting pictures with my mind
 Making memories using my eyes
 Filling up my heart with golden stories
 Who adds some spice to the rhythm of life, oh
@@ -421,8 +421,8 @@ Filling up my heart with golden stories
 
 Painting pictures
 Filling up my heart with golden stories
-","('heart', 6)",155,Painting Pictures,https://www.lyrics.com/lyric/15183454/Adele/Painting+Pictures
-8,90210 [2009],Adele,"Go ahead, go ahead and smash it on the floor
+",155,"('heart', 6)"
+Adele,90210 [2009],Many Shades of Black,https://www.lyrics.com/lyric/17665344/The+Raconteurs/Many+Shades+of+Black,"Go ahead, go ahead and smash it on the floor
 Take whatever is left, and take it with you out the door
 See if I cry
 See if I shed a single sorry tear
@@ -463,8 +463,8 @@ And there's many shades of black
 There's so many shades of black
 
 Go ahead...
-","('many', 11)",215,Many Shades of Black,https://www.lyrics.com/lyric/17665344/The+Raconteurs/Many+Shades+of+Black
-9,Love & War [2010],Adele,"Seven days has gone so fast,
+",215,"('many', 11)"
+Adele,Love & War [2010],Water and a Flame,https://www.lyrics.com/lyric/17423329/Daniel+Merriweather/Water+and+a+Flame,"Seven days has gone so fast,
 I really thought the pain would pass.
 It's been nearly an hour,
 Since I thought of you.
@@ -522,8 +522,8 @@ Looks like I was wrong.
 Is everything really meant to change,
 I guess we're like water and a flame.
 Water and a flame
-","('like', 7)",277,Water and a Flame,https://www.lyrics.com/lyric/17423329/Daniel+Merriweather/Water+and+a+Flame
-10,21 [2011],Adele,"I thought I told you, he'd be home soon
+",277,"('like', 7)"
+Adele,21 [2011],I Found a Boy [*],https://www.lyrics.com/lyric/28912361/Adele/I+Found+a+Boy+%5B%2A%5D,"I thought I told you, he'd be home soon
 Couldn't help myself, you're too good to be true.
 I fall short each time,
 Every time he ain't here
@@ -563,8 +563,8 @@ Than you ever did me before.
 So stand beside the river you cried
 And lay yourself down!
 Look how you want me now that I don't need you!
-","('stand', 5)",254,I Found a Boy [*],https://www.lyrics.com/lyric/28912361/Adele/I+Found+a+Boy+%5B%2A%5D
-11,21 [2011],Adele,"Close enough to start a war
+",254,"('stand', 5)"
+Adele,21 [2011],Turning Tables,https://www.lyrics.com/lyric/22724190/Adele/Turning+Tables,"Close enough to start a war
 All that I have is on the floor
 God only knows what we're fighting for
 All that I say, you always say more
@@ -606,8 +606,8 @@ It's time to say goodbye to turning tables
 To turning tables
 Turning tables, yeah
 Turning oh
-","('tables', 9)",249,Turning Tables,https://www.lyrics.com/lyric/22724190/Adele/Turning+Tables
-12,21 [Australian Bonus Track Edition] [2011],Adele,"Never woulda hitch-hiked to Birmingham
+",249,"('tables', 9)"
+Adele,21 [Australian Bonus Track Edition] [2011],If It Hadn't Been for Love [*],https://www.lyrics.com/lyric/22886506/Adele/If+It+Hadn%27t+Been+for+Love+%5B%2A%5D,"Never woulda hitch-hiked to Birmingham
 If it hadn't been for love
 Never woulda caught the train to Louisian'
 If it hadn't been for love
@@ -650,8 +650,8 @@ And put myself behind a jailhouse door
 If it hadn't been, if it hadn't been for love
 If it hadn't been, if it hadn't been for love
 If it hadn't been, if it hadn't been for love
-","('love', 14)",266,If It Hadn't Been for Love [*],https://www.lyrics.com/lyric/22886506/Adele/If+It+Hadn%27t+Been+for+Love+%5B%2A%5D
-13,21 [Demo Bonus Tracks] [2011],Adele,"Close enough to start a war
+",266,"('love', 14)"
+Adele,21 [Demo Bonus Tracks] [2011],Turning Tables [Live Acoustic] [Bonus Track] [Live][*],https://www.lyrics.com/lyric/23678636/Adele/Turning+Tables+%5BLive+Acoustic%5D+%5BBonus+Track%5D+%5BLive%5D%5B%2A%5D,"Close enough to start a war
 All that I have is on the floor
 God only knows what we're fighting for
 All that I say, you always say more
@@ -693,8 +693,8 @@ It's time to say goodbye to turning tables
 To turning tables
 Turning tables, yeah
 Turning oh
-","('tables', 9)",249,Turning Tables [Live Acoustic] [Bonus Track] [Live][*],https://www.lyrics.com/lyric/23678636/Adele/Turning+Tables+%5BLive+Acoustic%5D+%5BBonus+Track%5D+%5BLive%5D%5B%2A%5D
-14,Ibiza Annual 2011 [2011],Adele,"I let it fall, my heart,
+",249,"('tables', 9)"
+Adele,Ibiza Annual 2011 [2011],Set Fire to the Rain [Thomas Gold Mix],https://www.lyrics.com/lyric/24242388/Adele/Set+Fire+to+the+Rain+%5BThomas+Gold+Mix%5D,"I let it fall, my heart,
 And as it fell you rose to claim it
 It was dark and I was over
 Until you kissed my lips and you saved me
@@ -762,8 +762,8 @@ The last time
 Let it burn
 Let it burn
 Let it burn
-","('never', 8)",334,Set Fire to the Rain [Thomas Gold Mix],https://www.lyrics.com/lyric/24242388/Adele/Set+Fire+to+the+Rain+%5BThomas+Gold+Mix%5D
-15,Live at the Royal Albert Hall [2011],Adele,"I never woulda hitch-hiked to Birmingham
+",334,"('never', 8)"
+Adele,Live at the Royal Albert Hall [2011],If It Hadn't Been for Love,https://www.lyrics.com/lyric/24967094/Adele/If+It+Hadn%27t+Been+for+Love,"I never woulda hitch-hiked to Birmingham
 If it hadn't been for love
 I never woulda caught the train to Louisiana
 If it hadn't been for love
@@ -798,8 +798,8 @@ Put myself behind a jailhouse door
 If it hadn't been, if it hadn't been for love
 If it hadn't been, if it hadn't been for love, yes
 If it hadn't been, if it hadn't been for love, yes
-","('love', 11)",220,If It Hadn't Been for Love,https://www.lyrics.com/lyric/24967094/Adele/If+It+Hadn%27t+Been+for+Love
-16,Live at the Royal Albert Hall [DVD+CD] [2011],Adele,"I let it fall, my heart
+",220,"('love', 11)"
+Adele,Live at the Royal Albert Hall [DVD+CD] [2011],Set Fire to the Rain [Live at the Royal Albert Hall] [Dolby Digital 5.1,https://www.lyrics.com/lyric/25117146/Adele/Set+Fire+to+the+Rain+%5BLive+at+the+Royal+Albert+Hall%5D+%5BDolby+Digital+5.1,"I let it fall, my heart
 And as it fell you rose to claim it
 It was dark and I was over
 Until you kissed my lips and you saved me
@@ -867,8 +867,8 @@ Let it burn
 Oh oh oh
 Let it burn
 Oh oh oh
-","('never', 8)",347,Set Fire to the Rain [Live at the Royal Albert Hall] [Dolby Digital 5.1,https://www.lyrics.com/lyric/25117146/Adele/Set+Fire+to+the+Rain+%5BLive+at+the+Royal+Albert+Hall%5D+%5BDolby+Digital+5.1
-17,Ministry of Sound: Addicted to Bass 2011 [2011],Adele,"There's a fire starting in my heart
+",347,"('never', 8)"
+Adele,Ministry of Sound: Addicted to Bass 2011 [2011],Rolling in the Deep [Villa Remix],https://www.lyrics.com/lyric/23337033/Adele/Rolling+in+the+Deep+%5BVilla+Remix%5D,"There's a fire starting in my heart
 Reaching a fever pitch and it's bringing me out the dark
 Finally I can see you crystal clear
 Go 'head and sell me out and I'll lay your ship bare
@@ -921,8 +921,8 @@ Rolling in the deep (Tears are gonna fall, rolling in the deep)
 You had my heart inside your hand (You're gonna wish you never had met me)
 But you played it, you played it, you played it, you played it
 To the beat
-","('gonna', 21)",517,Rolling in the Deep [Villa Remix],https://www.lyrics.com/lyric/23337033/Adele/Rolling+in+the+Deep+%5BVilla+Remix%5D
-18,Rolling In the Deep (Jamie XX Shuffle) [2011],Adele,"There's a fire starting in my heart
+",517,"('gonna', 21)"
+Adele,Rolling In the Deep (Jamie XX Shuffle) [2011],Rolling In the Deep [Jamie xx Shuffle],https://www.lyrics.com/lyric/23031619/Adele/Rolling+In+the+Deep+%5BJamie+xx+Shuffle%5D,"There's a fire starting in my heart
 Reaching a fever pitch and it's bringing me out the dark
 Finally I can see you crystal clear
 Go 'head and sell me out and I'll lay your ship bare
@@ -975,8 +975,8 @@ Rolling in the deep (Tears are gonna fall, rolling in the deep)
 You had my heart inside your hand (You're gonna wish you never had met me)
 But you played it, you played it, you played it, you played it
 To the beat
-","('gonna', 21)",517,Rolling In the Deep [Jamie xx Shuffle],https://www.lyrics.com/lyric/23031619/Adele/Rolling+In+the+Deep+%5BJamie+xx+Shuffle%5D
-19,iTunes Festival: London 2011 [2011],Adele,"Didn't I give it all?
+",517,"('gonna', 21)"
+Adele,iTunes Festival: London 2011 [2011],Take It All [Live],https://www.lyrics.com/lyric/25019431/Adele/Take+It+All+%5BLive%5D,"Didn't I give it all?
 Tried my best
 Gave you everything I have, everything and no less
 Didn't I do it right? To let you down
@@ -1009,8 +1009,8 @@ Just take it take it all to you
 Don't look back at this crumbling fool
 Just take it, all with my love, take it all with my love
 Take it all with my love
-","('take', 16)",256,Take It All [Live],https://www.lyrics.com/lyric/25019431/Adele/Take+It+All+%5BLive%5D
-20,Skyfall [2012],Adele,"This is the end
+",256,"('take', 16)"
+Adele,Skyfall [2012],Skyfall,https://www.lyrics.com/lyric/28166568/Adele/Skyfall,"This is the end
 Hold your breath and count to ten
 Feel the earth move and then
 Hear my heart burst again
@@ -1072,8 +1072,8 @@ At skyfall
 Let the sky fall
 We will stand tall
 At skyfall
-","('stand', 8)",220,Skyfall,https://www.lyrics.com/lyric/28166568/Adele/Skyfall
-21,2013 Grammy Nominees [2013],Adele,"I let it fall, my heart
+",220,"('stand', 8)"
+Adele,2013 Grammy Nominees [2013],Set Fire to the Rain [Live at the Royal Albert Hall] [Live],https://www.lyrics.com/lyric/28669852/Adele/Set+Fire+to+the+Rain+%5BLive+at+the+Royal+Albert+Hall%5D+%5BLive%5D,"I let it fall, my heart
 And as it fell you rose to claim it
 It was dark and I was over
 Until you kissed my lips and you saved me
@@ -1141,8 +1141,8 @@ Let it burn
 Oh oh oh
 Let it burn
 Oh oh oh
-","('never', 8)",347,Set Fire to the Rain [Live at the Royal Albert Hall] [Live],https://www.lyrics.com/lyric/28669852/Adele/Set+Fire+to+the+Rain+%5BLive+at+the+Royal+Albert+Hall%5D+%5BLive%5D
-22,25 [LP] [2015],Adele,"Everybody loves the things you do
+",347,"('never', 8)"
+Adele,25 [LP] [2015],When We Were Young,https://www.lyrics.com/lyric/32298022/Adele/When+We+Were+Young,"Everybody loves the things you do
 From the way you talk
 To the way you move
 Everybody here is watching you
@@ -1222,8 +1222,8 @@ It makes me reckless
 It was just like a movie
 It was just like a song
 When we were young
-","('like', 17)",386,When We Were Young,https://www.lyrics.com/lyric/32298022/Adele/When+We+Were+Young
-23,Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War [2017],Adele,"This is how the story went
+",386,"('like', 17)"
+Adele,Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War [2017],Hiding My Heart,https://www.lyrics.com/lyric/33851146/Adele/Hiding+My+Heart,"This is how the story went
 I met someone by accident
 It blew me away
 Blew me away
@@ -1270,4 +1270,4 @@ But like everything I've ever known
 You disappear one day
 So I spend my whole life hiding my heart away
 I can't spend my whole life hiding my heart away
-","('away', 9)",270,Hiding My Heart,https://www.lyrics.com/lyric/33851146/Adele/Hiding+My+Heart
+",270,"('away', 9)"

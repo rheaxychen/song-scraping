@@ -79,5 +79,5 @@ def get_lyrics(entry):
 # Column 7: Most common non-stop word in the song
 def save_lyrics(out_list):
     df = pd.DataFrame(out_list)
-    df.to_csv('sample_output.csv')
+    df.to_csv('sample_output.csv', index=False, columns=["artist","album","song title", "url", "lyrics", "number of words", "most common non-stop word"])
 
